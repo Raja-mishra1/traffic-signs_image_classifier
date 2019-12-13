@@ -18,6 +18,8 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 4. You can also train your own model following the notebook.
 
 # Accuracy:
-We have achieved an accuracy of 98.5% on the training dataset and 97% on the test dataset.  
+We have achieved an accuracy of 97% on the training dataset and 94% on the test dataset.  
+
+
 
 
