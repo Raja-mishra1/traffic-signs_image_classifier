@@ -1,0 +1,1 @@
+pip3 install tensorflow keras sklearn matplotlib pandas PIL
