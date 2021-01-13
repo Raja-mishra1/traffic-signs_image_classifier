@@ -1,4 +1,7 @@
 # traffic-signs_image_classifier:
+
+![alt text](https://github.com/Raja-mishra1/traffic-signs_image_classifier/blob/master/Screenshot%20from%202021-01-13%2012-14-59.png)
+
 An image classifier that can classify various traffic symbols present on the road , built by keeping in mind how automated vehicles can use these for more effortless user experience .
 
 In this  we will build a deep neural network model that can classify traffic signs present in the image into different categories. With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
